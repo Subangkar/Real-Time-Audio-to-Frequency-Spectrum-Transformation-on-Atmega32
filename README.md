@@ -51,7 +51,7 @@ Lecturer, Department of CSE, BUET
 **Credits & References:**  
 - Audio Used: https://www.youtube.com/watch?v=qNf9nzvnd1k
 - 32-Point Integer DFT: https://blog.vinu.co.in/2012/05/implementing-discrete-fourier-transform.html
-- Mathematical Background of Sampling Rate Selection:
+- Mathematical Background for Sampling Rate Selection:
     - https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2012/ajw89_bwj8/ajw89_bwj8/index.html
     - https://www.waitingforfriday.com/?p=325
     
