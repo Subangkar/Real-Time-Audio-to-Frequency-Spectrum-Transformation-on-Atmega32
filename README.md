@@ -2,7 +2,7 @@
 
 A project to demonstrate frequency spectrum visualization from real time audio via time domain to frequency domain conversion on Atmega32 microcontroller.  
 This repo contains an Atmel Studio project with software codes to simulate a real time audio to frequency spectrum transformation on Atmega32 Microcontroller using Discrete Fourier Transform (DFT).  
-This project was implemented as hardware project of [Microprocessors and Microcontrollers Sessional course (CSE-316)](https://github.com/Subangkar/Microcontroller-CSE-316-BUET) of Department of CSE, BUET in Level-3, Term-1
+This project was a hardware project of [Microprocessors and Microcontrollers Sessional course (CSE-316)](https://github.com/Subangkar/Microcontroller-CSE-316-BUET) of Department of CSE, BUET in Level-3, Term-1
   
 **Project Requirements:**  
 - Hardware:
